@@ -9,13 +9,13 @@
 - 🍩 I contributed to: [NoneBot2](https://github.com/nonebot/nonebot2) ![](https://img.shields.io/github/stars/nonebot/nonebot2?style=social)
 
 - 🍕 Personal project: 
-    - [nonebot-plugin-manga-translator](nonebot-plugin-manga-translator)
-    - [nonebot-plugin-ai-timetable](nonebot-plugin-ai-timetable)
-    - [AI snake](AIsnake)
+    - [nonebot-plugin-manga-translator](https://github.com/maoxig/nonebot-plugin-manga-translator)
+    - [nonebot-plugin-ai-timetable](https://github.com/maoxig/nonebot-plugin-ai-timetable)
+    - [captcha-pytorch](https://github.com/maoxig/captcha-pytorch)
+    - [AI snake](https://github.com/maoxig/AIsnake)
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maoxig&theme=xcode)](https://github.com/maoxig/github-readme-activity-graph)
 <!--
 **maoxig/maoxig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
