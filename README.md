@@ -1,24 +1,32 @@
-### Hi there 👋
+# Hi there 👋 I'm Xie Peng
 
-<div> 
-<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=maoxig&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<div style="flex: 1;">
+> Master's student in Artificial Intelligence at Nanjing University 🎓  
+> Research focus: **AI for EDA**, especially Placement optimization in VLSI physical design ⚡
 
-- 🥪 I’m currently learning: Python, Pytorch, C#
+### 🔬 Research
+- Working on applying deep/reinforcement learning to chip layout (Placement) problems
+- Tools: Python, PyTorch, DREAMPlace, OpenROAD, etc.
 
-</div>
+### 🤖 Python & Chatbot Plugins
+Love building practical Python tools, especially NoneBot2 plugins:
+- [nonebot-plugin-ai-timetable](https://github.com/maoxig/nonebot-plugin-ai-timetable): Import XiaoAi timetable with one click, support query & subscription
+- [nonebot-plugin-manga-translator](https://github.com/maoxig/nonebot-plugin-manga-translator): Image/Manga translator for NoneBot2, supports multiple APIs
 
-<!--
-**maoxig/maoxig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎮 Unity & C# Game Modding
+Recently fell in love with Unity and learning C#:
+- Developing mods and tools for several games
 
-Here are some ideas to get you started:
+### 🎤 Side Hobby: Vocaloid & MMD
+- Hatsune Miku / Vocaloid fan
+- Learning Blender to create MMD dance animations
 
-- 🔭 I’m currently working on ...
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)
+![C#](https://img.shields.io/badge/C%23-10.0-purple)
+![Unity](https://img.shields.io/badge/Unity-2022+-black)
+![Blender](https://img.shields.io/badge/Blender-4.5-orange)
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+[![maoxig's GitHub stats](https://github-readme-stats-murex-one-12.vercel.app/api?username=maoxig)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-murex-one-12.vercel.app/api/top-langs/?username=maoxig&layout=compact&count_private=true)
